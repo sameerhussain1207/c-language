@@ -1,0 +1,25 @@
+simple if = single if
+
+condition making ;
+
+systex;
+
+if(condition){
+printf("");
+}
+
+2.. type  if else
+
+if = it is use for to make a true condition
+
+else = it is for to make a false condition
+
+if(true condition){
+printf("");
+}
+else{
+printf("")
+}
+
+
+2 number lene h user se input check donon me se kon bdaa h 
